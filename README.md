@@ -1,0 +1,3 @@
+-  Hi, I’m Oliver@UMassAmherst@CS
+-  I’m interested in Programming, Photography, Gaming, and Cooking
+-  I’m currently reaching my Master.
