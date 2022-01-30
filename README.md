@@ -1,3 +1,3 @@
--  Hi, I’m Oliver CS@UMASSAMHERST
+-  Hi, I’m Oliver CS@Northeastern University
 -  I’m interested in Programming, Photography, Gaming, and Cooking
--  I’m currently reaching my Master.
+-  I’m currently pursuing my Master's degree/
